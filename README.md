@@ -1,11 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Run this blog with starting the rails server and view it in the browser on http://localhost:3000
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.3.1 (x86_64-darwin15) 
+
+* Rails version: 5.0.2
 
 * System dependencies
 
